@@ -1,0 +1,6 @@
+// 把px 转化成天 rem 的函数
+@function rem($px) {
+    // @return $px/75px * 1rem;
+    @return $px/75px * 1rem;
+
+}
